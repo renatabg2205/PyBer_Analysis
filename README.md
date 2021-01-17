@@ -3,7 +3,8 @@
 ## Overview of Pyber analysis:
 The purpose of this project is to analyze all the rideshare data from PyBer -- a ride-sharing app company -- and create a compelling visualization for the CEO. The result will help the company to improve access to ride-sharing services and determine affordability for underserved neighborhoods.
 
-## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+
+## Results:
 
 ### Resources
 - Data Source: city_data.csv and ride_data.csv
@@ -27,9 +28,14 @@ The chart below shows the total fares for each week by city type (Rural, Suburba
 
 ![Total weekly fares by city type](./analysis/PyBer_fare_summary.png)
 
+The graph shows that the highest total weekly fares for rural cities between January and April 2019 is around $500. For this same period, the highest total weekly fares are about 3 and 5 times higher for suburban and urban cities, respectively.
 
 
+## Summary:
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+The average fare per ride in the rural cities is higher than in the suburban and urban cities. This situation might be a product of supply and demand. In other words, there are fewer drivers in the rural cities resulting in more expensive fares. The lowest average fare per ride is in urban cities where there are the highest number of drivers.
 
-Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+Even though the average fare of a ride in the rural cities is higher, more money is made in the suburban and urban cities because there are significantly more drivers and rides in the suburban and urban cities.
+
+A more thorough analysis could be made by getting the length of the rides and understanding if the average fare per ride is higher in the rural cities due to longer rides.
+
