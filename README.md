@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of Pyber analysis:
-The purpose of this project is to analyze all the rideshare data from PyBer -- a ride-sharing app company -- and create a compelling visualization for the CEO. The result will help the company to improve access to ride-sharing services and determine affordability for underserved neighborhoods.
+The purpose of this project is to analyze all the rideshare data from PyBer - a ride-sharing app company - and create a compelling visualization for the CEO. The result will help the company to improve access to ride-sharing services and determine affordability for underserved neighborhoods.
 
 
 ## Results:
