@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of Pyber analysis:
-The purpose of this project is to analyze all the rideshare data from PyBer - a ride-sharing app company - and create a compelling visualization for the CEO. The result will help the company to improve access to ride-sharing services and determine affordability for underserved neighborhoods.
+The purpose of this project is to analyze the rideshare data from PyBer - a ride-sharing app company - and create a compelling visualization for the CEO. The result will help the company to improve access to ride-sharing services and determine affordability for underserved neighborhoods.
 
 
 ## Results:
@@ -19,7 +19,7 @@ The number of rides in rural cities is 5 times lower than the number of rides in
 
 The number of drivers in rural cities is about 6.5 and 31 times lower than the number of drivers in the suburban and urban cities, respectively. 
 
-If we compare the average fare per ride between each city type, we'll notice that the average fare for rides in the rural cities is about $4 and $10 more per ride than the suburban and urban cities, respectively. Also, the average fare for drivers in the rural cities is about $16 and $39 more per driver than the suburban and urban cities, respectively. 
+If we compare the average fare per ride between each city type, we'll notice that the average fare for rides in the rural cities is about $4 and $10 more per ride than the suburban and urban cities, respectively. Also, the average fare per driver in the rural cities is about $16 and $39 more than in the suburban and urban cities, respectively. 
 
 
 ### Total weekly fares for each city type chart
