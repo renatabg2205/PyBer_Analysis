@@ -12,13 +12,23 @@ The purpose of this project is to analyze all the rideshare data from PyBer -- a
 ### A ride-sharing summary by city type
 The summary below shows the total number of rides, total number of drivers, the total fares, the average fare per ride and average fare per driver for each city type (Rural, Suburban and Urban).
 
-![A ride-sharing summary by city type](./analysis/Deliverable_1.PNG)
+![A ride-sharing summary by city type](./analysis/Deliverable1.PNG)
 
-### Total Fare by City Type chart
+The number of rides in rural cities is 5 times lower than the number of rides in the suburban cities and 13 times lower than the number of rides in the urban cities.
 
-The chart below shows the total weekly fares for each city type (Rural, Suburban and Urban).
+The number of drivers in rural cities is about 6.5 and 31 times lower than the number of drivers in the suburban and urban cities, respectively. 
+
+If we compare the average fare per ride between each city type, we'll notice that the average fare for rides in the rural cities is about $4 and $10 more per ride than the suburban and urban cities, respectively. Also, the average fare for drivers in the rural cities is about $16 and $39 more per driver than the suburban and urban cities, respectively. 
+
+
+### Total weekly fares for each city type chart
+
+The chart below shows the total fares for each week by city type (Rural, Suburban and Urban) between January and April 2019.
 
 ![Total weekly fares by city type](./analysis/PyBer_fare_summary.png)
+
+
+
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
